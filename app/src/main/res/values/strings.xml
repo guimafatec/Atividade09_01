@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Atletas Natação</string>
+    <string name="my_name">Gustavo Guimarães de Oliveira</string>
+    <string name="my_ra">1110482313013</string>
+    <string name="tvJuvenis">JUVENIS</string>
+    <string name="etNome">Nome</string>
+    <string name="etNascimento">Data de Nascimento (DDMMYYYY)</string>
+    <string name="etBairro">Bairro</string>
+    <string name="etAnosPratica">Anos de Pratica</string>
+
+    <string name="btnCadastrar">Cadastrar</string>
+
+    <string name="tvSeniores">SENIORES</string>
+    <string name="etCardiaco">Problema Cardíaco</string>
+
+    <string name="tvOutros">OUTROS</string>
+    <string name="etAcademia">Academia</string>
+    <string name="etRecordeSegundos">Recorde (segundos)</string>
+</resources>
